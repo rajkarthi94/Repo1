@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D69E-B34E
+
+ Directory of C:\Users\ELCOT\Desktop\NewProject
+
+02-05-2020  16:37    <DIR>          .
+02-05-2020  16:37    <DIR>          ..
+02-05-2020  16:04                16 abc.txt
+02-05-2020  15:59               391 index.html
+02-05-2020  16:37                 0 text1.txt
+               3 File(s)            407 bytes
+               2 Dir(s)  54,545,383,424 bytes free
